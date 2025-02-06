@@ -1,0 +1,19 @@
+{
+  "name": "macrotrack",
+  "version": "1.0.0",
+  "description": "app to analyze food images",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garizzutto/macrotrack.git"
+  },
+  "author": "Gabriel Rizzutto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garizzutto/macrotrack/issues"
+  },
+  "homepage": "https://github.com/garizzutto/macrotrack#readme"
+}
